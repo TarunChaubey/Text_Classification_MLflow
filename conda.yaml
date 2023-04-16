@@ -1,0 +1,15 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - _anaconda_depends=5.3.1=py37_0
+  - pip:
+    - pandas
+    - numpy
+    - tensorflow
+    - flask
+    - mlflow
+    - pickle
+    - glob
+    - 
+prefix: C:\Users\Asus\anaconda3

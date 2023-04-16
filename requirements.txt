@@ -1,0 +1,9 @@
+mlflow
+pandas
+numpy
+flask
+regex
+nltk
+scikit-learn
+tensorflow
+pickle

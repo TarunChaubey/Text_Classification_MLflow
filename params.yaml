@@ -1,0 +1,19 @@
+
+data:
+  input_shape:
+
+
+model_config:
+  max_num_words: 1250
+  Embedding_Dim: 100
+  input_length: 250
+  max_seq_length:
+  dropout: 0.2
+  optimizer: adam
+  input_length: .shape[1]
+  activation: softmax
+  loss: categorical_crossentropy
+  metrics: accuracy
+  output_dence: 6
+
+model_dir:
